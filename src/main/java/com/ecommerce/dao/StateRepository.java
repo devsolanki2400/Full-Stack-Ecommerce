@@ -1,6 +1,6 @@
-package com.fatihhernn.ecommerce.dao;
+package com.ecommerce.dao;
 
-import com.fatihhernn.ecommerce.entities.State;
+import com.ecommerce.entities.State;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.repository.query.Param;
 import org.springframework.data.rest.core.annotation.RepositoryRestResource;

@@ -1,6 +1,6 @@
-package com.fatihhernn.ecommerce.dao;
+package com.ecommerce.dao;
 
-import com.fatihhernn.ecommerce.entities.Product;
+import com.ecommerce.entities.Product;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.jpa.repository.JpaRepository;

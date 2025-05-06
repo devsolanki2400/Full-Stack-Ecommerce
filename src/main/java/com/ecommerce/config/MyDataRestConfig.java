@@ -1,9 +1,9 @@
-package com.fatihhernn.ecommerce.config;
+package com.ecommerce.config;
 
-import com.fatihhernn.ecommerce.entities.Country;
-import com.fatihhernn.ecommerce.entities.Product;
-import com.fatihhernn.ecommerce.entities.ProductCategory;
-import com.fatihhernn.ecommerce.entities.State;
+import com.ecommerce.entities.Country;
+import com.ecommerce.entities.Product;
+import com.ecommerce.entities.ProductCategory;
+import com.ecommerce.entities.State;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.data.rest.core.config.RepositoryRestConfiguration;

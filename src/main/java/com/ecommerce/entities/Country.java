@@ -1,4 +1,4 @@
-package com.fatihhernn.ecommerce.entities;
+package com.ecommerce.entities;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import lombok.Getter;

@@ -1,6 +1,5 @@
-package com.fatihhernn.ecommerce.entities;
+package com.ecommerce.entities;
 
-import lombok.Data;
 import lombok.Getter;
 import lombok.Setter;
 
