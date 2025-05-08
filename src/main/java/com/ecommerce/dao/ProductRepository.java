@@ -16,3 +16,4 @@ public interface ProductRepository extends JpaRepository<ProductEntity, Long> {
     // Retrieves products whose name contains the given string, with pagination
     Page<ProductEntity> findByProductNameContaining(@Param("name") String name, Pageable pageable);
 }
+
